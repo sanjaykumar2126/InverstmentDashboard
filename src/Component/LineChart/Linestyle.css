@@ -1,0 +1,9 @@
+.svg-line-chart-point {
+    display:none;
+  }
+.axis{
+    display:none;
+}
+.App{
+    text-align: start !important;
+}

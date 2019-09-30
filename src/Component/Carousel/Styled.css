@@ -1,0 +1,20 @@
+.carousel .slide {
+    text-align: start !important;
+    background:none !important;
+}
+.carousel .carousel-status {
+    display:none !important;
+}
+.carousel .control-dots {
+    display:none !important;
+}
+.carousel .control-next.control-arrow:before {
+    border-left: 8px solid gray !important;
+    /* border:2px solid black; */
+}
+.carousel .control-prev.control-arrow:before {
+    border-right: 8px solid gray !important;
+}
+.carousel.carousel-slider .control-arrow:hover {
+    background:none !important
+}

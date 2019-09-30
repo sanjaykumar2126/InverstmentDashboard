@@ -20,3 +20,15 @@
 .App-link {
   color: #09d3ac;
 }
+.CircularProgressbar {
+  /* width: 100%; */
+  width: 35% !important
+  /* vertical-align: middle; */
+}
+.canvas-container{
+  height: 500px;
+  width:500px;
+}
+.svg-line-chart-point {
+  display:none;
+}
